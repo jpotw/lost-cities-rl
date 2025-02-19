@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
+/** @type {import('./fe/node_modules/next').NextConfig} */
 const nextConfig = {
   /* config options here */
 };
